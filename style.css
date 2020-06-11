@@ -1,0 +1,15 @@
+.hyper_list{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+}
+
+.hyper_list_item{
+    display: inline;
+}
+
+.hyperlist_eventueel_sticky_als_je_wil {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
